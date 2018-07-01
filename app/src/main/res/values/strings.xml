@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="hello">Hello World, AutosmsActivity!</string>
+    <string name="app_name">Autosms</string>
+    <string name="active">ACTIVE</string>
+    <string name="deactive">DEACTIVE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="msg">SET THE MESSAGE TO SEND</string>
+    <string name="hint">ENTER HERE</string>
+    <string name="passsave">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="msgsettings">MESSAGE SETTING</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="smsonly">REPLY FOR SMS</string>
+    <string name="callonly">REPLY FOR CALLS</string>
+    <string name="allcontacts">REPLY TO ALL CONTACTS</string>
+    <string name="selcontacts">REPLY TO SELECTED CONTACTS</string>
+    <string name="addcon">ADD or EDIT CONTACTS</string>
+    <string name="scon">SELECTED CONTACTS</string>
+    <string name="ok">SAVE</string>
+    <string name="back">BACK</string>
+</resources>
